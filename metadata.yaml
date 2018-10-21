@@ -1,5 +1,5 @@
 _repo: George-Walker-at-Suez_3718
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,5 +26,6 @@ subjects:
 - !lcsh 'Short stories'
 - !lcsh 'British -- Egypt -- Fiction'
 - !lcc 'PR'
+- GITenberg
 title: George Walker at Suez
 url: http://www.gutenberg.org/ebooks/3718
